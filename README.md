@@ -33,7 +33,7 @@
 <a href="https://github.com/FlavioJunior2021">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioJunior2021&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FlavioJunior2021&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>          
+</div>           
           
 
 ![](https://visitor-badge.glitch.me/badge?page_id=FlavioJunior2021&left_color=gray&right_color=blueviolet&left_text=Visitantes)
