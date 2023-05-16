@@ -1,39 +1,21 @@
-## Olá, me chamo Flávio Júnior! 
-### E esse é o meu perfil GitHub, seja bem vindo!!! 👋
+# 💫 About Me:
+Olá, meu nome é Flávio e sou um desenvolvedor apaixonado por tecnologia, especialmente por JavaScript e seus frameworks, incluindo Node, React e React Native. Trabalhar com essas tecnologias me permite criar aplicativos modernos e escaláveis com facilidade.<br><br>Além disso, tenho experiência em frameworks como Express e Next, que me permitem desenvolver aplicativos mais rapidamente, sem me preocupar com questões de infraestrutura.<br><br>Recentemente, comecei a estudar ciência de dados com Python, o que me permitiu entender a importância da análise de dados para o sucesso dos negócios. Acredito que essa habilidade é valiosa e pode ser aplicada em vários campos de trabalho.<br><br>Como pessoa, sou dedicado e comprometido com meu trabalho. Gosto de desafios e sempre busco maneiras de melhorar minhas habilidades e conhecimentos. Estou sempre aberto a novas oportunidades para aprender e crescer profissionalmente.<br><br>Estou animado para conectar com outras pessoas e empresas que valorizam a inovação e tecnologia e que buscam um desenvolvedor motivado como eu.
 
 
-### Sobre mim
-- 📚 Técnico de informática pelo IFRN
-- 🍰 Tenho 19 anos
-- 🌎 Vivo no Rio Grande do Norte
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/maverick#7912) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@flaviojrzz_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/flavjr) 
 
-### Ferramentas e Tecnologias
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=FlavioJunior2021&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=FlavioJunior2021&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioJunior2021&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="30" height="30"/> Typescript
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30"/> Javascript
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30"/> React
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" height="30"/> Node
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" height="30"/> MySQL          
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=FlavioJunior2021&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### Estou estudando
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
+---
+[![](https://visitcount.itsvg.in/api?id=FlavioJunior2021&icon=2&color=0)](https://visitcount.itsvg.in)
 
-### Contatos:
-
-<div>
-<a href = "mailto:flavinhoj78@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/flavjr/?locale=pt_BR" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-
-
-### Estatísticas
-
-<div>
-<a href="https://github.com/FlavioJunior2021">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioJunior2021&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FlavioJunior2021&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>           
-          
-
-![](https://visitor-badge.glitch.me/badge?page_id=FlavioJunior2021&left_color=gray&right_color=blueviolet&left_text=Visitantes)
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
