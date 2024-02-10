@@ -1,6 +1,5 @@
 # 💫 About Me:
-Olá, meu nome é Flávio e sou um desenvolvedor dedicado e comprometido com meu trabalho. Tenho experiência e habilidades em JavaScript e seus frameworks, incluindo Node, React e React Native. Trabalhar com essas tecnologias me permite criar aplicativos modernos e escaláveis com facilidade. Estou sempre em busca de desafios e oportunidades para melhorar minhas habilidades e conhecimentos, buscando constantemente maneiras de aprender e crescer profissionalmente.
-
+Olá, meu nome é Flávio e sou um desenvolvedor web. Tenho experiência em JavaScript e frameworks como Node, React e React Native. Estou sempre em busca de desafios e oportunidades para melhorar minhas habilidades e conhecimentos, buscando constantemente maneiras de aprender.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/maverick#7912) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/flaviojrzz_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/flavjr) 
